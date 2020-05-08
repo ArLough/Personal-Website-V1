@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
- name: "Aidan Loughney"
+  name: "Aidan Loughney"
   avatar: "/assets/images/bio-photo.jpeg"
   bio: "CS student @ umich" # Note: Markdown is allowed
   location: "Michigan"
