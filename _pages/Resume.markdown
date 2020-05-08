@@ -3,6 +3,7 @@ layout: single
 title: Resume
 permalink: /resume/
 classes: wide
+author_profile: false
 ---
 
 **Aidan Loughney**
