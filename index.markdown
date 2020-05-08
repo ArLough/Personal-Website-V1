@@ -4,7 +4,7 @@
 
 layout: home
 
-excerpt: "**Under Construction!!!**"
+excerpt: "Computer Science Student at the University of Michigan"
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo by Alex Mertz on [**Unsplash**](https://unsplash.com/photos/tDSmhEFfasI)"
