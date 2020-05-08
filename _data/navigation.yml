@@ -3,7 +3,7 @@ main:
 #  - title: "About"
 #    url: https://arlough.github.io/about/
   - title: "Resume"
-    url: https://arlough.github.io/resume/
+    url: /assets/Resume.pdf
 #  - title: "Projects"
 #    url: https://arlough.github.io/projects/
 #  - title: "Posts"
