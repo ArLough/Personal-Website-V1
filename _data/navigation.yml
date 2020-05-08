@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Home"
-    url: https://arlough.github.io
   - title: "About"
-     url: https://arlough.github.io
+    url: https://arlough.github.io
   - title: "Resume"
-     url: https://arlough.github.io
+    url: https://arlough.github.io
   - title: "Projects"
-     url: https://arlough.github.io
+    url: https://arlough.github.io
   - title: "Posts"
-     url: https://arlough.github.io
+    url: https://arlough.github.io
