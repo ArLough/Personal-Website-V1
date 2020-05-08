@@ -30,7 +30,7 @@ twitter_username: aidanloughney
 github_username:  ArLough
 
 # Build settings
-remote_theme           : "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-feed
