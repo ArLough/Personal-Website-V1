@@ -63,12 +63,12 @@ author:
   bio: "CS student @ umich" # Note: Markdown is allowed
   location: "Michigan"
   links:
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/aidanloughney/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:loughneyaidan@gmail.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/aidanloughney/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ArLough"
