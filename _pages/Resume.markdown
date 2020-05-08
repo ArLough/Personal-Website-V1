@@ -10,7 +10,7 @@ author_profile: false
 Ada, Michigan • (616) 826-8228 • LinkedIn: aidanloughney •
 loughneyaidan\@gmail.com
 
-Education
+## H2 Education
 
 **University of Michigan,** Ann Arbor, MI
 
@@ -20,7 +20,7 @@ Relevant Coursework: EECS 280: Programming and Introductory Data
 Structures, EECS 203: Discrete Mathematics, Math 215: Multivariable &
 Vector Calculus, AP Computer Science A
 
-Leadership Experience
+## H2 Leadership Experience
 
 **Member,** Hack Blue October 2019 - Present
 
@@ -45,7 +45,7 @@ Leadership Experience
     different requirements involved in earning their first few ranks and
     merit badges.
 
-Project Experience
+## H2 Project Experience
 
 **Office Hours Backend,** School Project November 2019
 
@@ -70,13 +70,13 @@ Project Experience
     a seam carving algorithm and utilized C style object-oriented
     programming.
 
-Technical Skills
+## H2 Technical Skills
 
 -   Programming Languages: C++, Java
 
 -   Other: Git, Unix, Latex
 
-Honors
+## H2 Honors
 
 National AP Scholar -- College Board July 2019
 
