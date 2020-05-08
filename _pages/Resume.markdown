@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: Resume
 permalink: /resume/
 #classes: wide
@@ -7,10 +7,9 @@ author_profile: false
 ---
 **Aidan Loughney**
 
-Ada, Michigan • (616) 826-8228 • LinkedIn: aidanloughney •
-loughneyaidan\@gmail.com
+Ada, Michigan • (616) 826-8228 • LinkedIn: aidanloughney • loughneyaidan\@gmail.com
 
-## H2 Education
+## Education
 
 **University of Michigan,** Ann Arbor, MI
 
@@ -45,7 +44,7 @@ Vector Calculus, AP Computer Science A
     different requirements involved in earning their first few ranks and
     merit badges.
 
-## H2 Project Experience
+## Project Experience
 
 **Office Hours Backend,** School Project November 2019
 
@@ -70,13 +69,13 @@ Vector Calculus, AP Computer Science A
     a seam carving algorithm and utilized C style object-oriented
     programming.
 
-## H2 Technical Skills
+## Technical Skills
 
 -   Programming Languages: C++, Java
 
 -   Other: Git, Unix, Latex
 
-## H2 Honors
+## Honors
 
 National AP Scholar -- College Board July 2019
 
