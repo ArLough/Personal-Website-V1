@@ -10,7 +10,8 @@ I found this playlist helpful: https://www.youtube.com/playlist?list=PLLAZ4kZ9dF
 I used the theme found here: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 The cover image is made by: https://unsplash.com/photos/tDSmhEFfasI
 
-
+# About this website
+This website is built using [Jekyll](https://jekyllrb.com) and hosted using [GitHub Pages](https://pages.github.com). The site uses a theme called [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes). If you want to know more about the website check out this [post](https://arlough.github.io/projects/Portfolio-Website) I wrote.
 
 
 
