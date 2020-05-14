@@ -4,7 +4,7 @@
 
 layout: home
 
-excerpt: "Computer Science Student at the University of Michigan"
+excerpt: " "
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo by Alex Mertz on [**Unsplash**](https://unsplash.com/photos/tDSmhEFfasI)"
@@ -14,4 +14,4 @@ author_profile: true
 
 # About Me 
 Hi, my name is Aidan Loughney and I'm a Sophmore at the University of Michigan studying Computer Science.
-I'm interested in Software Engineering. I'm also intersted in Daata Science, especially when applied to politcal science or economics.
+I'm interested in Software Engineering, Data Science, and CS education.
