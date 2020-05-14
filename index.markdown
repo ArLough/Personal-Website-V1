@@ -14,4 +14,4 @@ author_profile: true
 
 # About Me 
 Hi, my name is Aidan Loughney and I'm a Sophmore at the University of Michigan studying Computer Science.
-I'm interested in Software Engineering and Data Science, especailly when applied to politcal science or economics.
+I'm interested in Software Engineering. I'm also intersted in Daata Science, especially when applied to politcal science or economics.
